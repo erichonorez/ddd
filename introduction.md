@@ -36,3 +36,7 @@ The more important is to understand the subject area for which you are building 
 ### Service company
 
 When you are a service company things become complicated. The domain could seems the same at first sight but it is definitely not. In a multi-tenant application the domain of your application has a parameter more: the **provider** aspect.
+
+### Ubiquitous Language
+
+Discuss about domain and identify if there are concepts with several names of a name with several meaning depending on the context. Then define a dictionnary of all allowed terms.
