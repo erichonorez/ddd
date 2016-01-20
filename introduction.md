@@ -11,13 +11,15 @@ In this section I want to explain:
 5. What's a domain model?
 
 ## What's DDD?
-The Domain Driven Design is an approach of software development that helps you to create better software in a better way.
+Domain Driven Design is a development approach having a set of patterns, practices and principles that will help you to manage the complexity of large entreprise applications.
 
-Every software exists to solve problems. The subject area in which these problems exist is the domain of your application. All business concepts, rules and policies your code manipulates comes from the domain. In order build good software the more important is to understand the problem space for which you are building software.
+Every application exists only to solve real life problems. The success of a software can be measured by how well it helps its users.
 
-The Domain Driven Design philosophy provides patterns, practices and principles in order to manage the complexity of creation and maintenance of an application by creating synergies between the problem space and the solution space.
+In order to deliver great software we have first to understand what the problems are and the context in which they exist. In the Domain Driven Design philosophy this context is referred as the *domain* of your application.
 
-In order words, the Domain Driven Design will help you to better understand your domain, design solutions and implement them.
+DDD tackles the complexity by creating synergies and bindings between the the problem space and the solution space. 
+
+Some facets of the DDD will help you in the understanding of the problem space (the problems and their domain) while other will serve as guides for the software design and development. 
 
 ## How DDD helps in the problem space?
 The Domain Driven Design provides some *strategic* patterns in order to:
@@ -62,3 +64,6 @@ When you are a service company things become complicated. The domain could seems
 ### Ubiquitous Language
 
 Discuss about domain and identify if there are concepts with several names of a name with several meaning depending on the context. Then define a dictionnary of all allowed terms.
+
+
+
